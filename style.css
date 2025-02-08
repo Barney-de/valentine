@@ -1,0 +1,42 @@
+body {
+    background-image: url('./images/cup\ cake.jpg');
+    background-color: pink;
+    text-align: center;
+    margin-top: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+    font-size: 20px;
+}
+.yes {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border: none;
+    margin: 10px;
+    border-radius: 20px;
+}
+.no
+{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border: none;
+    margin: 10px;
+    border-radius: 20px;
+}
+.yes:hover{
+    background-color: pink;
+    color: black;
+}
+.no:hover{
+    background-color: black;
+    color: white;
+}
+.yes:active{
+    background-color: yellow;
+    color: black;
+}
+.no:active{
+    background-color: chocolate;
+    color: black;
+}

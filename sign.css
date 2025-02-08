@@ -1,0 +1,16 @@
+body {
+    background-image: url('./images/val\ 3.jpg');
+    background-color: pink;
+    text-align: center;
+    margin-top: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+    font-size: 20px;
+}
+.name {
+    color: pink;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    border-width: 0.2px; 
+}
